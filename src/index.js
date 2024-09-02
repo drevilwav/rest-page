@@ -25,3 +25,5 @@ aboutButton.addEventListener('click', () => {
   clearContent();
   loadAbout();
 });
+
+loadHome();
